@@ -9,30 +9,31 @@
 # c) uma lista com os times em ordem alfabetica
 
 # d) Em que posicao na tabela está o time da vasco
-
 todos_times = (
-
-'América-MG',
-'Athletico-PR',
-'Atlético-MG',
-'Bahia',
+    
 'Botafogo',
-'Corinthians',
-'Coritiba',
-'Cruzeiro',
-'Cuiabá',
+'Red Bull Bragantino',
 'Flamengo',
-'Fluminense',
-'Fortaleza',
-'Vasco',
-'Grêmio',
-'Internacional',
 'Palmeiras',
-'Bragantino',
-'Santos',
+'Athletico-PR',
+'Grêmio',
+'Atlético-MG',
+'Fortaleza',
+'Fluminense',
 'São Paulo',
-'Goiás'
-               )
+'Cuiabá',
+'Internacional',
+'Bahia',
+'Cruzeiro',
+'Corinthians',
+'Goiás',
+'Vasco',
+'Santos',
+'Coritiba',
+'América-MG'
+
+ )
+
 
 print('Os classificados pra a Libertadores são:')
 print('-'*20)

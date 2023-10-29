@@ -1,4 +1,4 @@
-lanche = (1, 2, 3, 4, 5)
+lanche = (1, 2, 3, 4, 5, 5)
 
 
-print(lanche.index(2))
+print(lanche.count(5))
